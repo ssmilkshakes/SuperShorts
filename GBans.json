@@ -1,17 +1,7 @@
-[
-  {
-    "deviceName": "Finlay H",
-    "reason": "Spamming",
-    "expires": null
-  },
-  {
-    "deviceName": "Jane's iPad",
-    "reason": "Harassment",
-    "expires": "2024-12-31"
-  },
-  {
-    "deviceName": "Test Device",
-    "reason": "Abuse",
-    "expires": null
-  }
-]
+{
+  "bannedDevices": [
+    "Finlay H",
+    "Jane's iPad",
+    "Test Device"
+  ]
+}
