@@ -3,5 +3,5 @@
   "ios": "18.4.1",
   "URL": "https://www.icloud.com/shortcuts/2580ee4ec5bc48e0b87f112957c210f5",
   "description": "Urgent security patch; required for all devices.",
-  "priority": "required"
+  "priority": "optional"
 }
