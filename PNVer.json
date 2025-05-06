@@ -1,0 +1,7 @@
+{
+  "version": "3-r2",
+  "ios": "18.4.1",
+  "URL": "https://www.icloud.com/shortcuts/2438324a7a304c57a0d1d906e9fb0a8b",
+  "description": "Emergency patch for update iOS requirements, plus new data storage.",
+  "priority": "Required"
+}
