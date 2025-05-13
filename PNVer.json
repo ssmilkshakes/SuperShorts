@@ -1,7 +1,7 @@
 {
-  "version": "1",
-  "ios": "18.4.1",
-  "URL": "https://www.icloud.com/shortcuts/5c95ae444cb94869b3b0037771ba04d0",
-  "description": "Patch update to include live updates and security features.",
+  "version": "1-r1",
+  "ios": "18.5",
+  "URL": "https://www.icloud.com/shortcuts/e9874359c4f140c0a1916ae3332325f0",
+  "description": "Finished share functions and improved security.",
   "priority": "Required"
 }
