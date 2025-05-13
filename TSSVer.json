@@ -1,7 +1,7 @@
 {
-  "version": "3-r2-p1",
-  "ios": "18.4.1",
-  "URL": "https://www.icloud.com/shortcuts/0b9a1891843a4690857c8f470e50e4e5",
-  "description": "Emergency patch for update iOS requirements.",
+  "version": "3-r3",
+  "ios": "18.5",
+  "URL": "https://www.icloud.com/shortcuts/cdb213dd865b4211963246a082138e5b",
+  "description": "patch for update iOS.",
   "priority": "Required"
 }
