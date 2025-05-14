@@ -1,7 +1,7 @@
 {
-  "version": "3-r3",
+  "version": "3-r3.1",
   "ios": "18.5",
-  "URL": "https://www.icloud.com/shortcuts/589c22be5b944270b8db8bebbab636d5",
-  "description": "patch for update iOS.",
-  "priority": "Required"
+  "URL": "https://www.icloud.com/shortcuts/4fc84e856b164383a992bb8b40f1649e",
+  "description": "Added automatic detection for disconnected wifi",
+  "priority": "Optional"
 }
