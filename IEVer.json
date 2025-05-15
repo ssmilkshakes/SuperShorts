@@ -1,7 +1,7 @@
 {
-  "version": "2-r2",
-  "ios": "18.4.1",
-  "URL": "https://www.icloud.com/shortcuts/47372b5d46bd440c9c2a7547b9b5aec6",
-  "description": "Updated update requirements & proccessor, including better security.",
+  "version": "2-r2.1",
+  "ios": "18.5",
+  "URL": "https://www.icloud.com/shortcuts/8ff40bee9bf347d194120475d2fc5962",
+  "description": "TOS compliance update.",
   "priority": "Required"
 }
