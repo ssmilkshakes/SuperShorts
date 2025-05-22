@@ -1,7 +1,7 @@
 {
-  "version": "1-r2",
+  "version": "1-r2.1",
   "ios": "18.5",
-  "URL": "https://www.icloud.com/shortcuts/be513451784641e5a3e8811265578f3a",
-  "description": "Added custom chats!",
+  "URL": "https://www.icloud.com/shortcuts/d07d3e7f87f64756bac2e14ab59bdcbb",
+  "description": "Improved performance and added consistant chatting!",
   "priority": "Required"
 }
