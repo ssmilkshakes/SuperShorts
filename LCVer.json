@@ -1,7 +1,7 @@
 {
-  "version": "1-r3.2",
+  "version": "1-r3.3",
   "ios": "18.5",
-  "URL": "https://www.icloud.com/shortcuts/6e72aed59d63487080b641331de57e00",
-  "description": "Added more intuitive features for new users.",
+  "URL": "https://www.icloud.com/shortcuts/7f4a7da8c53e4d8cb0e04a0c31bc6f32",
+  "description": "Patch for the tutorial.",
   "priority": "Optional"
 }
