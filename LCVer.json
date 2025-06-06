@@ -1,7 +1,7 @@
 {
-  "version": "1-r3.3",
+  "version": "1-r3.5",
   "ios": "18.5",
-  "URL": "https://www.icloud.com/shortcuts/7f4a7da8c53e4d8cb0e04a0c31bc6f32",
-  "description": "Patch for the tutorial.",
-  "priority": "Optional"
+  "URL": "https://www.icloud.com/shortcuts/c2446c75d6a24dbbae26424469149b60",
+  "description": "Enhanced moderation updates.",
+  "priority": "Required"
 }
