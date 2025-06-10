@@ -1,7 +1,7 @@
 {
-  "version": "1-r3.5",
+  "version": "1-r4",
   "ios": "18.5",
-  "URL": "https://www.icloud.com/shortcuts/c2446c75d6a24dbbae26424469149b60",
-  "description": "Enhanced moderation updates.",
+  "URL": "https://www.icloud.com/shortcuts/ae8c39b0d12a44edb3209c735ae8a191",
+  "description": "Added new message options including text-to-speech and translation.",
   "priority": "Required"
 }
