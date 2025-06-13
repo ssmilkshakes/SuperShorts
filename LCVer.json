@@ -1,7 +1,7 @@
 {
-  "version": "1-r4",
+  "version": "1-r5",
   "ios": "18.5",
-  "URL": "https://www.icloud.com/shortcuts/ae8c39b0d12a44edb3209c735ae8a191",
-  "description": "Added new message options including text-to-speech and translation.",
+  "URL": "https://www.icloud.com/shortcuts/3beb8167842a424585ac288d96550a29",
+  "description": "Moved to new server.",
   "priority": "Required"
 }
