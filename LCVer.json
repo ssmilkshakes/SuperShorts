@@ -1,7 +1,7 @@
 {
-  "version": "1-r5.2",
+  "version": "1-r6",
   "ios": "18.5",
-  "URL": "https://www.icloud.com/shortcuts/bd884e353a3a40d6b4491cd8c82f3a61",
-  "description": "More patches.",
+  "URL": "https://www.icloud.com/shortcuts/a4e4522ee1dd425aa80faa05b8702769",
+  "description": "Added chat switching and introduction to tutorial",
   "priority": "Required"
 }
